@@ -1,0 +1,407 @@
+{
+  "catalogNav": [
+    {
+      "id": 1,
+      "title": "Каталог",
+      "url": "/catalog",
+      "items": [
+        {
+          "id": 1,
+          "title": "Бюстгальтеры",
+          "url": "/catalog",
+          "picture": 1
+        },
+        {
+          "id": 2,
+          "title": "Корректирующее белье",
+          "url": "/catalog",
+          "picture": 2
+        },
+        {
+          "id": 3,
+          "title": "Купальники и плавки",
+          "url": "/catalog",
+          "picture": 3
+        },
+        {
+          "id": 4,
+          "title": "Пляжная одежда",
+          "url": "/catalog",
+          "picture": 4
+        },
+        {
+          "id": 5,
+          "title": "Одежда для сна",
+          "url": "/catalog",
+          "picture": 5
+        },
+        {
+          "id": 6,
+          "title": "Халаты",
+          "url": "/catalog",
+          "picture": 6
+        },
+        {
+          "id": 7,
+          "title": "Домашняя одежда",
+          "url": "/catalog",
+          "picture": 7
+        },
+        {
+          "id": 8,
+          "title": "Майки и футболки",
+          "url": "/catalog",
+          "picture": 8
+        },
+        {
+          "id": 9,
+          "title": "Спортивная одежда и белье",
+          "url": "/catalog",
+          "picture": 1
+        },
+        {
+          "id": 10,
+          "title": "Корсеты",
+          "url": "/catalog",
+          "picture": 2
+        },
+        {
+          "id": 11,
+          "title": "Боди",
+          "url": "/catalog"
+        },
+        {
+          "id": 12,
+          "title": "Аксессуары",
+          "url": "/catalog"
+        },
+        {
+          "id": 13,
+          "title": "Эротическая одежда и белье",
+          "url": "/catalog"
+        },
+        {
+          "id": 14,
+          "title": "Для города",
+          "url": "/catalog"
+        },
+        {
+          "id": 15,
+          "title": "Носки и колготки",
+          "url": "/catalog"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Бренды",
+      "url": "/brands"
+    },
+    {
+      "id": 3,
+      "title": "Новинки",
+      "url": "/news"
+    },
+    {
+      "id": 4,
+      "title": "Акции",
+      "url": "/discounts"
+    },
+    {
+      "id": 5,
+      "title": "О компании",
+      "url": "/info"
+    },
+    {
+      "id": 6,
+      "title": "Оплата и доставка",
+      "url": "/info"
+    }
+  ],
+  "filters": [
+    {
+      "id": 1,
+      "title": "Тип бюстгалтера",
+      "code": "tb",
+      "sort": 1,
+      "type": "select",
+      "multiply": true,
+      "withAll": true,
+      "options": [
+        {
+          "id": 1165786787,
+          "title": "Бандо",
+          "sort": 1
+        },
+        {
+          "id": 658756712,
+          "title": "Бесшовные",
+          "sort": 1
+        },
+        {
+          "id": 1567563,
+          "title": "Бралетты",
+          "sort": 1
+        },
+        {
+          "id": 14355674,
+          "title": "С мягкой чашкой",
+          "sort": 1
+        },
+        {
+          "id": 1545654,
+          "title": "С чашкой полупоролон",
+          "sort": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "По популярности",
+      "code": "pp",
+      "sort": 1,
+      "type": "select",
+      "multiply": false,
+      "withAll": false,
+      "options": [
+        {
+          "id": 3411,
+          "title": "По популярности",
+          "sort": 1
+        },
+        {
+          "id": 1232,
+          "title": "По возрастанию цены",
+          "sort": 1
+        },
+        {
+          "id": 234513,
+          "title": "По убыванию цены",
+          "sort": 1
+        },
+        {
+          "id": 23414,
+          "title": "По новинкам",
+          "sort": 1
+        },
+        {
+          "id": 123455,
+          "title": "По скидкам",
+          "sort": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Цвет",
+      "code": "co",
+      "sort": 1,
+      "type": "select",
+      "multiply": true,
+      "withAll": true,
+      "options": [
+        {
+          "id": 1234531,
+          "title": "Белый",
+          "sort": 1,
+          "color": "#FFFFFF"
+        },
+        {
+          "id": 43564512,
+          "title": "Бежевый",
+          "sort": 1,
+          "color": "#F3E9E3"
+        },
+        {
+          "id": 13453453,
+          "title": "Голубой",
+          "sort": 1,
+          "color": "#D0F1FF"
+        },
+        {
+          "id": 134563454,
+          "title": "Синий",
+          "sort": 1,
+          "color": "#77A5FF"
+        },
+        {
+          "id": 13456455,
+          "title": "Черный",
+          "sort": 1,
+          "color": "#000000"
+        },
+        {
+          "id": 134564566,
+          "title": "Оранжевый",
+          "sort": 1,
+          "color": "#FFA25F"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Размер",
+      "code": "sz",
+      "sort": 1,
+      "type": "select",
+      "multiply": true,
+      "withAll": true,
+      "options": [
+        {
+          "id": 5475611,
+          "title": "40",
+          "sort": 1
+        },
+        {
+          "id": 134567345642,
+          "title": "42",
+          "sort": 1
+        },
+        {
+          "id": 143563453,
+          "title": "44",
+          "sort": 1
+        },
+        {
+          "id": 1656764,
+          "title": "46",
+          "sort": 1,
+          "active": false
+        }
+      ]
+    },
+    {
+      "id": 534534,
+      "title": "Бренд",
+      "code": "bd",
+      "sort": 1,
+      "type": "select",
+      "multiply": true,
+      "withAll": true,
+      "options": [
+        {
+          "id": 453645611,
+          "title": "Incanto",
+          "sort": 1,
+          "count": 31
+        },
+        {
+          "id": 145674562,
+          "title": "Intimissimi",
+          "sort": 1,
+          "count": 26
+        },
+        {
+          "id": 1345674567,
+          "title": "Adidas",
+          "sort": 1,
+          "count": 15
+        },
+        {
+          "id": 1345345454,
+          "title": "Reebok",
+          "sort": 1,
+          "count": 88
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Бюстгалтер",
+      "url": "/catalog/nizhnee-bele/byustgalter_837/",
+      "variants": [
+        {
+          "id": 11,
+          "photo": "1",
+          "discount": 30,
+          "active": true,
+          "description": " Комплект xx нижнего белья: бюстгальтер бралетт с уплотненными чашками",
+          "brand": "Incanto",
+          "oldPrice": 2569,
+          "price": 3799,
+          "color": "#F2A299",
+          "colorName": "purple"
+        },
+        {
+          "id": 12,
+          "photo": "2",
+          "discount": 28,
+          "active": true,
+          "description": " Комплект нижнего белья: бюстгальтер бралетт с уплотненными чашками",
+          "brand": "Incanto",
+          "oldPrice": 1499,
+          "price": 1599,
+          "color": "#F1EDE4",
+          "colorName": "black"
+        },
+        {
+          "id": 13,
+          "photo": "3",
+          "active": true,
+          "discount": 32,
+          "description": " Комплект нижнего белья: бюстгальтер бралетт с уплотненными чашками",
+          "brand": "Incanto",
+          "oldPrice": 1499,
+          "price": 1599,
+          "color": "#9EC1BB",
+          "colorName": "Синий"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Бюстгалтер",
+      "url": "/catalog/nizhnee-bele/byustgalter_837/",
+      "variants": [
+        {
+          "id": 11,
+          "photo": "5",
+          "discount": 30,
+          "active": true,
+          "description": " Комплект нижнего белья: бюстгальтер бралетт с уплотненными чашками",
+          "brand": "Incanto",
+          "oldPrice": 2569,
+          "price": 3799,
+          "color": "#9EC1BB",
+          "colorName": "purple"
+        },
+        {
+          "id": 12,
+          "photo": "6",
+          "discount": 28,
+          "active": true,
+          "description": " Комплект нижнего белья: бюстгальтер бралетт с уплотненными чашками",
+          "brand": "Incanto",
+          "oldPrice": 1499,
+          "price": 1599,
+          "color": "#C1949E",
+          "colorName": "black"
+        },
+        {
+          "id": 13,
+          "photo": "7",
+          "active": true,
+          "discount": 32,
+          "description": " Комплект нижнего белья: бюстгальтер бралетт с уплотненными чашками",
+          "brand": "Incanto",
+          "oldPrice": 1499,
+          "price": 1599,
+          "color": "#9EC1BB",
+          "colorName": "Синий"
+        },
+        {
+          "id": 14,
+          "photo": "8",
+          "active": false,
+          "description": " Комплект нижнего белья: бюстгальтер бралетт с уплотненными чашками",
+          "brand": "Incanto",
+          "price": 1599,
+          "color": "#BDC175",
+          "colorName": "Red"
+        }
+      ]
+    }
+  ]
+}
